@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "Configuración inicial del actualizador",
+  "pub_date": "2026-07-03T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "FIRMA_DE_PRUEBA",
+      "url": "https://github.com/tu-usuario/actualizaciones-crm/releases/download/v0.1.0/penagoseguros_crm.msi"
+    }
+  }
+}
