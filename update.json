@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaTJ3L1FNTzFNdHNMYW1MUjh0WW9mWGt0NUdmeWdIL1pvdmI1dHAwNFd1bXlkTW1QYVJBUXFLY2lpVmtxdTlPNFVPYTRNaUtzNFpNbzZLenRUUzdabnQ4cVdHaDBxdmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzA3MDI1CWZpbGU6Y3JtLXBlbmFnb3MtMjBfMy4xLjhfeDY0X2VuLVVTLm1zaQozRS9SazNNMjl1NDhnQjRFV0N3Z3BKbjc0ZElEcTJOWVJ5c0k0RGJSTVVVUHlkdDNuUy9BVGc5ZE1MSXRJNlIxYTI3b2pBb09xUXM1TjRTelFkTURDUT09Cg==",
-      "url": "https://github.com/arirodripach3-svg/crm-penagos-2.0/archive/refs/tags/app-v3.1.8.zip"
+      "url": "https://github.com/arirodripach3-svg/crm-penagos-2.0/releases/download/app-v3.1.8/crm-penagos-20_3.1.8_x64-setup.exe"
     }
   }
 }
